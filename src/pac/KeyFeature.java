@@ -4,7 +4,7 @@ public class KeyFeature {
 	public static void main(String[] urt) {
 		/*To rotate the array*/
 		int arr[]= {10,20,30,40,50};
-		int key=2;
+		int key=1;
 		for (int i = 0; i <key; i++) {
 			for (int j = 0; j < arr.length-1; j++) {
 				int temp=arr[j];
